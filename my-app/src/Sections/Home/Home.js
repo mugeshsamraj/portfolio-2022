@@ -22,7 +22,7 @@ function Home() {
             target="_blank"
           >
             <img
-              src="https://rakshithkotian-portfolio.netlify.app/images/linkedin.png"
+              src="https://cdn-icons-png.flaticon.com/512/61/61109.png"
               alt="Mugesh Linkedin Profile"
               class="home-hero__social-icon"
             />
