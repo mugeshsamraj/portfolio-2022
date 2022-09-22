@@ -34,7 +34,7 @@ function Footer() {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.linkedin.com/in/mugesh-samraj-b62b5a208/"
+                href="https://www.linkedin.com/in/mugeshsamraj/"
               >
                 <img
                   class="main-footer__icon"

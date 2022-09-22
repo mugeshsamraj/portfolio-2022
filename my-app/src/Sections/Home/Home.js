@@ -16,7 +16,7 @@ function Home() {
       <div class="home-hero__socials">
         <div class="home-hero__social">
           <a
-            href="https://www.linkedin.com/in/mugesh-samraj-b62b5a208/"
+            href="https://www.linkedin.com/in/mugeshsamraj/"
             class="home-hero__social-icon-link"
             rel="noreferrer"
             target="_blank"
